@@ -1,5 +1,5 @@
 # Public-Utility-Company-Regression-Model
-# Quiz 6 — Revenue Regression Analysis (Hotazel Steam Dataset)
+# Revenue Regression Analysis (Hotazel Steam Dataset)
 
 ## Overview
 This notebook builds and compares two simple linear regression models to forecast monthly revenue for `dt4training`, using a hold-out `dt4testing` set for validation.
